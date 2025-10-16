@@ -149,5 +149,3 @@ Los carruseles con tendencias permiten ver **qué contenidos están siendo más 
 
 ***
 
-¿Quieres que convierta este texto también a formato entregable (por ejemplo, PDF o DOCX) con estilo visual y secciones destacadas?
-
